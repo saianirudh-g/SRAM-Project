@@ -21,6 +21,7 @@ Poly‑gate alignment for matched transistors
 Metal routing for WL, BL, BLB
 Contact/via placement for stable connections
 
+
 📁 **Repository Structure**
 ├── schematic/
 │   ├── 6T_SRAM_Schematic.png
